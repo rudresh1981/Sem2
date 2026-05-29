@@ -1,0 +1,5 @@
+Population Size = 10
+Chromosome Length = 5 bits
+Fitness Function: f(x) = x^2
+Parameters: Pc = 0.8 Pm = 0.01 Generations = 50
+Initial Population: 10101 00111 11100 01010 10011 01101 11001 00011 11111 00101
