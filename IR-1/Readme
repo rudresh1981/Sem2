@@ -1,0 +1,13 @@
+# IR Assignment
+
+## Install
+pip install streamlit nltk
+
+## Run
+streamlit run IR-assignment1.py
+
+## Features
+- Preprocessing
+- Phrase Query
+- BST vs B-Tree
+- Tolerant Retrieval

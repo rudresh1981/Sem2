@@ -1,0 +1,60 @@
+# --------------------------
+# PYTHON FILES
+# --------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --------------------------
+# VIRTUAL ENVIRONMENT
+# --------------------------
+venv/
+env/
+ENV/
+.venv/
+
+# --------------------------
+# STREAMLIT
+# --------------------------
+.streamlit/
+
+# --------------------------
+# NOTEBOOKS
+# --------------------------
+.ipynb_checkpoints/
+
+# --------------------------
+# OS FILES
+# --------------------------
+.DS_Store
+Thumbs.db
+
+# --------------------------
+# LOG FILES
+# --------------------------
+*.log
+
+# --------------------------
+# DATA FILES (OPTIONAL)
+# --------------------------
+# Ignore large datasets
+*.txt
+*.csv
+
+# BUT allow specific files if needed
+!shakespeare.txt
+
+# --------------------------
+# OUTPUT FILES
+# --------------------------
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# --------------------------
+# IDE SETTINGS
+# --------------------------
+.vscode/
+.idea/
