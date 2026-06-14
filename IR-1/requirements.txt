@@ -1,2 +1,5 @@
 streamlit
 nltk
+pandas
+scikit-learn
+BTrees
