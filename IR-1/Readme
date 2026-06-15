@@ -1,7 +1,7 @@
 # IR Assignment
 
 ## Install
-pip install streamlit nltk
+pip install streamlit nltk pandas scikit-learn BTrees
 
 ## Run
 streamlit run IR-assignment1.py
