@@ -2,10 +2,10 @@
 streamlit
 pandas
 numpy
+lxml
 scikit-learn
 requests
 beautifulsoup4
-lxml
-libxml2 
-libxslt
 networkx
+
+
